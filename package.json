@@ -2,12 +2,14 @@
   "name": "blackjack-game-with-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://suvi277.github.io/blackjack-game-with-react",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
     "connected-react-router": "^6.7.0",
+    "gh-pages": "^2.2.0",
     "history": "^4.10.1",
     "node-sass": "^4.13.1",
     "react": "^16.13.0",
@@ -23,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
