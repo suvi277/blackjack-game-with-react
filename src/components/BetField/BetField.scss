@@ -1,0 +1,32 @@
+.badge {
+    background-color: #990000;
+    padding: 10px 20px;
+    color: #ffffff;
+    margin-left: 25px;
+    float: left;
+    font-size: 16px;
+    border-radius: 100%;
+}
+
+.betting-input {
+    display: flex;
+    margin-bottom: 20px;
+
+    h1 {
+        margin: 0;
+        padding-bottom: 12px;
+    }
+
+    input {
+        border: 1px solid #8c8c8c;
+        padding: 10px 0 10px 10px;
+        width: 100px;
+        margin-right: 20px;
+    }
+
+    button {
+        font-size: 14px;
+
+        
+    }
+}
