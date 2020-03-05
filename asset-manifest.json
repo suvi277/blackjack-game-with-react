@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/blackjack-game-with-react/static/css/main.d2b555db.chunk.css",
-    "main.js": "/blackjack-game-with-react/static/js/main.bae2acc4.chunk.js",
-    "main.js.map": "/blackjack-game-with-react/static/js/main.bae2acc4.chunk.js.map",
+    "main.js": "/blackjack-game-with-react/static/js/main.19d74bf0.chunk.js",
+    "main.js.map": "/blackjack-game-with-react/static/js/main.19d74bf0.chunk.js.map",
     "runtime-main.js": "/blackjack-game-with-react/static/js/runtime-main.83192342.js",
     "runtime-main.js.map": "/blackjack-game-with-react/static/js/runtime-main.83192342.js.map",
-    "static/js/2.44ea0b1e.chunk.js": "/blackjack-game-with-react/static/js/2.44ea0b1e.chunk.js",
-    "static/js/2.44ea0b1e.chunk.js.map": "/blackjack-game-with-react/static/js/2.44ea0b1e.chunk.js.map",
+    "static/js/2.c102c090.chunk.js": "/blackjack-game-with-react/static/js/2.c102c090.chunk.js",
+    "static/js/2.c102c090.chunk.js.map": "/blackjack-game-with-react/static/js/2.c102c090.chunk.js.map",
     "index.html": "/blackjack-game-with-react/index.html",
-    "precache-manifest.63149ae7279ec130fbc10104b55e83fe.js": "/blackjack-game-with-react/precache-manifest.63149ae7279ec130fbc10104b55e83fe.js",
+    "precache-manifest.59c30d23edb07b47263507824d8a21fc.js": "/blackjack-game-with-react/precache-manifest.59c30d23edb07b47263507824d8a21fc.js",
     "service-worker.js": "/blackjack-game-with-react/service-worker.js",
     "static/css/main.d2b555db.chunk.css.map": "/blackjack-game-with-react/static/css/main.d2b555db.chunk.css.map",
-    "static/js/2.44ea0b1e.chunk.js.LICENSE.txt": "/blackjack-game-with-react/static/js/2.44ea0b1e.chunk.js.LICENSE.txt"
+    "static/js/2.c102c090.chunk.js.LICENSE.txt": "/blackjack-game-with-react/static/js/2.c102c090.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83192342.js",
-    "static/js/2.44ea0b1e.chunk.js",
+    "static/js/2.c102c090.chunk.js",
     "static/css/main.d2b555db.chunk.css",
-    "static/js/main.bae2acc4.chunk.js"
+    "static/js/main.19d74bf0.chunk.js"
   ]
 }

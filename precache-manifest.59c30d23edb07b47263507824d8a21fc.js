@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd753abcb51a8e8a7e4675cb90b548c9",
+    "revision": "1c2215897d05c4bc19197a35f5e9dbef",
     "url": "/blackjack-game-with-react/index.html"
   },
   {
-    "revision": "a465e744217ff54efa62",
+    "revision": "f7419d271fed0288e536",
     "url": "/blackjack-game-with-react/static/css/main.d2b555db.chunk.css"
   },
   {
-    "revision": "8dc5ddbbc04d5933abf1",
-    "url": "/blackjack-game-with-react/static/js/2.44ea0b1e.chunk.js"
+    "revision": "fd7155b9504c39a33748",
+    "url": "/blackjack-game-with-react/static/js/2.c102c090.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/blackjack-game-with-react/static/js/2.44ea0b1e.chunk.js.LICENSE.txt"
+    "url": "/blackjack-game-with-react/static/js/2.c102c090.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a465e744217ff54efa62",
-    "url": "/blackjack-game-with-react/static/js/main.bae2acc4.chunk.js"
+    "revision": "f7419d271fed0288e536",
+    "url": "/blackjack-game-with-react/static/js/main.19d74bf0.chunk.js"
   },
   {
     "revision": "151c0222ab25ed5cf43a",
